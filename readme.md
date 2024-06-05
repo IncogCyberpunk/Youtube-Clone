@@ -1,0 +1,1 @@
+hello i am adding this file as a readme md file for trying out git commands through the commands
